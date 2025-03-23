@@ -24,7 +24,8 @@ This agent uses a combination of multiple AI models to collect, process, and ana
 
 This agent serves as a comprehensive solution to predict and understand water and electricity consumption trends, making it invaluable for decision-makers and researchers alike.
 
-##⚙️ Agent Screenshot
+## ⚙️ Agent Screenshot
+
 ![Screenshot 2025-03-23 223908](https://github.com/user-attachments/assets/8f4a6dd0-a66e-4675-9202-f08aed06b887)
 ![Screenshot 2025-03-23 223924](https://github.com/user-attachments/assets/e56365e8-6307-413a-ba11-9decbc9f1c87)
 
