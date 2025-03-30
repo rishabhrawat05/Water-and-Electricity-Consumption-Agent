@@ -35,4 +35,9 @@ https://github.com/user-attachments/assets/e58599f2-94a3-47ef-941c-262431abf3a8
 ![Screenshot 2025-03-23 223908](https://github.com/user-attachments/assets/8f4a6dd0-a66e-4675-9202-f08aed06b887)
 ![Screenshot 2025-03-23 223924](https://github.com/user-attachments/assets/e56365e8-6307-413a-ba11-9decbc9f1c87)
 
+## Collaborators(Team Members)
 
+<a href="https://github.com/Lalit-dotcom">
+  <img src="https://github.com/Lalit-dotcom.png" width="100" height="100" />
+  <img src="https://github.com/Akshat-Sh101.png" width="100" height="100" />
+</a>
