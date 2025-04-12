@@ -37,7 +37,6 @@ https://github.com/user-attachments/assets/e58599f2-94a3-47ef-941c-262431abf3a8
 
 ## 🤝 Collaborators(Team Members)
 
-<a href="https://github.com/Lalit-dotcom">
-  <img src="https://github.com/Lalit-dotcom.png" width="100" height="100" />
-  <img src="https://github.com/Akshat-Sh101.png" width="100" height="100" />
-</a>
+[![Lalit's GitHub](https://img.shields.io/badge/GitHub-Lalit--dotcom-blue?logo=github)](https://github.com/Lalit-dotcom)
+[![Akshat's GitHub](https://img.shields.io/badge/GitHub-Akshat--Sh101-blue?logo=github)](https://github.com/Akshat-Sh101)
+
